@@ -1,0 +1,8 @@
+id,amount,method,details
+TXN1001,150.75,credit_card,4532-XXXX-1234
+TXN1002,899.00,credit_card,5100-XXXX-9999
+TXN1003,25.50,paypal,bob@email.com
+TXN1004,12.00,paypal,sub@service.net 
+TXN1007,100.00,apple_pay,alice@apple.com
+TXN1008,ONE_HUNDRED,credit_card,1111-XXXX-2222
+TXN1009,50.00,paypal
